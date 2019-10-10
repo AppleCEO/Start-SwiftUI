@@ -74,7 +74,6 @@
 		C3889312234C4BA400CD4258 /* StartSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				C3FB949F234F27E60067356E /* LandmarkRow */,
 				C3889329234C4C5600CD4258 /* Data */,
 				C3889328234C4C4000CD4258 /* Resource */,
 				C3889317234C4BA400CD4258 /* StartView.swift */,
@@ -117,13 +116,6 @@
 				C388932C234C4C7600CD4258 /* Data.swift */,
 			);
 			path = Data;
-			sourceTree = "<group>";
-		};
-		C3FB949F234F27E60067356E /* LandmarkRow */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = LandmarkRow;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
